@@ -19,14 +19,22 @@ Commit your code regularly and meaningfully. This helps you in the event you eve
 ## Description
 
 In this challenge use `Test Driven Development` to build a RESTful API using Node.js and Express to create and list _games_. **Data can be stored in memory using a simple JS array**. No need to keep track of incrementing `id`s for this project's MVP, that is part of the Stretch Problem.
-
+  
 ## Self-Study/Essay Questions
 
 Demonstrate your understanding of this week's concepts by answering the following free-form questions. Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager.
 
 1. In Jest, what are the differences between `describe()` and `it()` globals, and what are good uses for them?
+
+-Describe gives the tester an over view on a particular test suite. 'It' tells the tester what the specific test is intended for.
+
 1. What is the point of `Test Driven Development`? What do you think about this approach?
+
+-It allows developers to set hard outcomes for their applications prior to coding. This keeps the central development goal in focus  when building out application features and functionality.
+
 1. Mention three types of automated tests.
+
+-Unit, Integration and End-to-end testing
 
 ## Project Set Up
 
